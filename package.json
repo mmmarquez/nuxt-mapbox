@@ -1,0 +1,23 @@
+{
+  "name": "mapbox",
+  "version": "1.0.0",
+  "description": "mapbox studies",
+  "author": "mmm",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "mapbox-gl": "^0.44.1",
+    "nuxt": "^1.0.0"
+  },
+  "devDependencies": {
+    "cross-env": "^5.0.1",
+    "autoprefixer": "^7.1.6",
+    "tailwindcss": "^0.1.3"
+  }
+}
